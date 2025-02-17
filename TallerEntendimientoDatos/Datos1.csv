@@ -1,0 +1,33 @@
+Id;Nombre;Estrato;Sexo;Enfermedad;FechaNacimiento
+1; Ana Perez;3;F;SI;23/03/1980
+2;Mauricio Rios;2;M;NO;12/06/1988
+3;Samuel Ochoa;4;M;NO;13/05/1987
+4;Emilia Oviedo;3;F;NO;9/11/1990
+5;Carmen Reyes;2;F;SI;9/09/1991
+6;Alberto Arenas;4;M;NO;23/05/1988
+7;Maria Betancur;3;M;NO;9/09/1991
+8;Manuel Regino;2;Masculino;NO;23/05/1988
+9;Sara Merino;2;F;NO;12/06/1988
+10;Pepe Corrales;2;M;SI;23/04/1980
+11;Raul Poveda;4;M;no;12/06/1987
+12;Cristina Carrillo;3;F;NO;12/06/1988
+13;Olga Arias;2;F;NO;13/05/1987
+14;Yaned Cardona;4;F;SI;9/11/1990
+15;Paula Quintero;3;F;no;23/03/1980
+16;Jeronimo Martinez;2;M;NO;12/06/1988
+17; Ana Gomez;3;F;SI;13/05/1987
+18;Mauricio Llanos;2;M;NO;9/11/1990
+19;Samuel Vargas;4;M;no;23/04/1980
+20;Emilia Hincapie;3;F;NO;12/06/1987
+21;Carmen Carrascal;2;F;SI;12/06/1988
+22;Alberto Zapata;4;M;NO;13/05/1987
+23;Maria Buritica;3;M;NO;9/11/1990
+24;Manuel Rios;2;Masculino;NO;23/03/1980
+25;Sara Correa;2;F;NO;12/06/1988
+26;Pepe Arenas;2;M;SI;13/05/1987
+27;Raul Rios;4;M;NO;9/11/1990
+28;Cristina Sanchez;3;F;NO;23/04/1980
+29;Olga Serna;2;F;NO;12/06/1987
+30;Yaned Rios;4;Femenino;SI;12/06/1988
+31;Paula Cardona;3;Mujer;NO;13/05/1987
+32;Jeronimo Zapata;2;M;NO;15/11/1990
