@@ -180,6 +180,3 @@ Material orientado al aprendizaje de **ciencia de datos con Python** en un conte
 
 **Repositorio:** [rubisabel00/ciencias-de-datos-Sena](https://github.com/rubisabel00/ciencias-de-datos-Sena)
 
-## 📄 Licencia
-
-No se identificó un archivo de licencia en la raíz del repositorio al momento de la revisión. Si deseas permitir la reutilización y distribución del material bajo condiciones claras, agrega un archivo `LICENSE` con la licencia que elijas.
